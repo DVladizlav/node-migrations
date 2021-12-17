@@ -1,0 +1,1 @@
+First things first - I recommend using real orm, this was migration system i made for fun, inspired by diesel (rust) migrations. It was used with node-postgres but it can be modified to work with node-mysql or similar DB drivers. 
